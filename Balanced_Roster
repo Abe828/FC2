@@ -96,7 +96,7 @@ TEAM,AAC,East,Troy,TROY,70,APP,,,
 TEAM,AAC,East,Temple,TEM,70,TLSA,,,
 TEAM,AAC,East,East Carolina,ECU,65,TULN,,,
 TEAM,AAC,East,Army,ARMY,75,NAVY,,,
-,,,,,,,,,
+
 # Coaches,,,,,,,,,
 # Coach format:,Team,Name,Age,Offense,Defense,Recruiting,Training,Off Scheme,Def Scheme
 COACH,ALA,Nick Saban,40,95,95,95,95,Balanced,Balanced,,,,,,,
@@ -181,7 +181,6 @@ COACH,WVU,Dana Holgorsen,40,75,75,75,75,Pro Style,Conservative,,,,,,,
 COACH,WIS,Paul Chryst,40,85,85,85,85,Smashmouth,Balanced,,,,,,,
 COACH,WYO,Craig Bohl,40,80,80,80,80,Pro Style,Conservative,,,,,,,
 
-,,,,,,,,,
 # Players,,,,,,,,,
 # Player format:,Team,Position,Name,Year (String),Height,Weight,Stars,,
 PLAYER,ALA,OL,Jonah Williams,Jr,73,295,5,,
